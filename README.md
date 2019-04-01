@@ -6,6 +6,9 @@ IP protocol is TCP, therefore, host A must start first, agent is the following a
 #agent
 
 0: normal transmission
+
 1: simulate packed loss
+
 2: simulate date wrong
+
 3: simulate delay
